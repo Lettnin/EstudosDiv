@@ -12,7 +12,15 @@ int main()
       printf("Digite a medida do lado do poligono: ");
       scanf("%d", &medida_lado);
     }
-  
+  if (lados < 3)
+  {
+    printf("Nao eh um poligono");
+  }
+  else if (lados > 5)
+  {
+    printf("Poligono nao identificado.");
+  }
+
   if (lados == 3)
   {
     perimetro = (lados * medida_lado);

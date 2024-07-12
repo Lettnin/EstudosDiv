@@ -1,9 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
-    
-
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -11,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/temp/Estudos/Faculdade/seleção2",
-      "program": "c:/temp/Estudos/Faculdade/seleção2/build/Debug/outDebug",
+      "cwd": "c:/temp/Estudos/Faculdade/prova_antiga",
+      "program": "c:/temp/Estudos/Faculdade/prova_antiga/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

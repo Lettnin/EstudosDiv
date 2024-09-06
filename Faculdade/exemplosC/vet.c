@@ -8,7 +8,7 @@ int main()
 
   for (c=0;c <= 24; c++){
     printf("Digite nota: ");
-    scanf ("%d",&notas[c]);
+    scanf ("%f",&notas[c]);
     soma+=notas[c];
   }
   media_turma = soma/25;

@@ -58,12 +58,16 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "stdio.h": "c",
-    "A.C": "cpp"
+    "A.C": "cpp",
+    "string.h": "c"
   },
   "cSpell.words": [
     "Digite",
     "fatorial",
+    "palavra",
     "pcaro",
-    "salario"
+    "salario",
+    "temporaria",
+    "texto"
   ]
 }

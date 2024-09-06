@@ -11,7 +11,7 @@ int main(){
     printf("Digite o valor do raio: ");
     scanf("%f", &v1);
 
-    ac = pow(v1,2) * 3,14; 
+    ac = pow(v1,2) * 3.14; 
 
     printf("O resultado do circulo: %.2f", ac);
-    }
+}

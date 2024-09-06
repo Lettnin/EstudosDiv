@@ -60,14 +60,5 @@
     "stdio.h": "c",
     "A.C": "cpp",
     "string.h": "c"
-  },
-  "cSpell.words": [
-    "Digite",
-    "fatorial",
-    "palavra",
-    "pcaro",
-    "salario",
-    "temporaria",
-    "texto"
-  ]
+  }
 }

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* comentario */
-//comentario
+// comentario
 
 int main()
 {

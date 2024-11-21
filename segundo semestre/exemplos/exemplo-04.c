@@ -2,7 +2,7 @@
 int main()
 {
 	unsigned char x;
-
+	// SHIFTS << PRA ESQUERDA >> DIREITA
 	x = 7;
 	printf("%d", x);
 	x = x << 1;

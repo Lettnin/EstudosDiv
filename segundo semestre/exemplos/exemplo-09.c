@@ -7,12 +7,13 @@ int main()
 
 	printf("entre com o numero de valores\n");
 	scanf("%d", &n);
-	for (i = 0; i < n; i++) {
+	for (i = 0; i < n; i++)
+	{
 		printf("entre com o %d valor\n", i + 1);
 		scanf("%f", &valor);
-		media += valor;
+		media += valor; // media = media + valor
 	}
-	media /= n;
+	media /= n; // media = media / n
 	printf("A media destes valores eh:%f\n", media);
 	return 0;
 }

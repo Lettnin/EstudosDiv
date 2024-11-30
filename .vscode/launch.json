@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -9,9 +10,9 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Estudos/Faculdade/exemplosC",
-      "program": "c:/Estudos/Faculdade/exemplosC/build/Debug/outDebug",
+      "program": "${workspaceFolder}/a.exe",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:\\Users\\lettn\\OneDrive\\Documentos\\MinGW\\bin\\gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
